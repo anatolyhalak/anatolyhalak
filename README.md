@@ -8,7 +8,7 @@ https://www.linkedin.com/in/anatoly-khalak-0b2016212/
 :heavy_check_mark: Java programming for testers <a target="_blank" href="https://software-testing.ru/edu/1-schedule/1-java-for-testers">at Software-testing.ru</a></br>
 :heavy_check_mark: Automating REST API testing in Java course <a target="_blank" href="https://software-testing.ru/edu/3/329-rest-api-java#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" >at Software-testing.ru</a></br>
 :heavy_check_mark: SQL course <a target="_blank" href="https://stepik.org/catalog/42">at Stepik courses</a></br>
-:heavy_check_mark: Author and creator of the website Testdotcom.ru <a target="_blank" href="https://testdotcom.ru/">by Anatoly Khalak</a></br>
+:heavy_check_mark: Author and creator of the website <a target="_blank" href="https://testdotcom.ru/">Testdotcom.ru</a></br>
 
 ![This is an image](/icons/fiddler.png)![This is an image](/icons/postman.png)![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/PyCharm.png)![This is an image](/icons/WebStorm.png)![This is an image](/icons/DataGrip.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Selenium.png)![This is an image](/icons/appium.png)![This is an image](/icons/androidstudio.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 
