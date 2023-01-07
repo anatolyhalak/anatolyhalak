@@ -1,5 +1,5 @@
 ### Hi there 👋
-### :octocat: I'm Anatoly, AQA Engineer
+### :octocat: I'm Anatoly, QA Engineer
 
 <!--
 https://www.linkedin.com/in/anatoly-khalak-0b2016212/
